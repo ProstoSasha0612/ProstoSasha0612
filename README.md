@@ -12,7 +12,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProstoSasha0612)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alexandr-popko-98605a1b2)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ProstoSasha0612)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexandr-popko-98605a1b2/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProstoSasha0612)](https://github.com/anuraghazra/github-readme-stats)
 
